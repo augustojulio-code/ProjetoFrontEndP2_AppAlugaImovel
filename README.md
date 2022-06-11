@@ -10,12 +10,12 @@
 
 <h3>Embora eu não seja muito bom com front-end o projeto é composto apenas por seu visual</h3>
 
-<h3> You can find me here 
+<h3> Você pode me encontrar em 
   <a href="https://www.linkedin.com/in/julio-augusto-a99308119/"><img src="https://media1.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif?cid=ecf05e475wvxroh7lso1o43rzmla6dixesq4ozeuow979u1j&rid=giphy.gif&ct=s" width=50></a>
-  And Here 
+  e  
   <a href="https://github.com/augustojulio-code"><img src="https://media1.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e475ugpwrqi5abxfvhx782j1jurqyj2p9p5r6fk0cps&rid=giphy.gif&ct=s" width=50></a>
 </h3>
-<h3> U can find fatec too <a href="http://www.fatecsdp.edu.br/">
+<h3>Você também pode encontrar a Fatec em  <a href="http://www.fatecsdp.edu.br/">
   <img src="https://media3.giphy.com/media/3o7OsRrAdd6q3DG3E4/giphy.gif?cid=ecf05e4714v8n2oz22uzajbx618bloxaqoqwjxychfmsrelj&rid=giphy.gif&ct=s" width=100></a>
 </h3>
 
